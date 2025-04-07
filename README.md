@@ -1,3 +1,5 @@
+<!-- Preview (Ctrl + Shift + V) -->
+
 <a name="readme-top"></a>
 
 [![Stargazers][stars-shield]][stars-url]
@@ -25,13 +27,17 @@
 
 ## Estruturação das Pastas
 
-aprendendo-golang/<br>
-├─ 01-fundamentos/<br>
+aprendendo-golang/ <br>
+├─ **01-fundamentos/**<br>
 │ ├─ arrays-slices/<br>
 │ ├─ interfaces/<br>
 │ ├─ public-private/<br>
 │ ├─ structs/<br>
-│ ├─ variables/<br>
+│ └─ variables/<br>
+├─ **02-estruturas-de-controle/** <br>
+│ ├─ if-else/<br>
+│ ├─ if-init/<br>
+│ └─ switch/<br>
 └─ README.md
 
 <a name="section-changelog">
@@ -39,6 +45,10 @@ aprendendo-golang/<br>
 ## Notas de versão
 
 </a>
+
+### v0.0.2-20250407
+
+- Aula sobre as Estruturas de Controle do `GoLang`
 
 ### v0.0.1-20250328
 
