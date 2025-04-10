@@ -40,11 +40,43 @@ aprendendo-golang/ <br>
 │ └─ switch/<br>
 └─ README.md
 
+aprendendo-golang/<br>
+├─ **01-fundamentos/** <br>
+│ ├─ arrays-slices/<br>
+│ ├─ interfaces/<br>
+│ ├─ public-private/<br>
+│ ├─ structs/<br>
+│ └─ variables/<br>
+├─ **02-estruturas-de-controle/**<br>
+│ ├─ if-else/<br>
+│ ├─ if-init/<br>
+│ └─ switch/<br>
+├─ **03-funcoes/**<br>
+│ ├─ estutura-de-repeticao/<br>
+│ │ ├─ do-while/<br>
+│ │ ├─ for/<br>
+│ │ ├─ for-range/<br>
+│ │ └─ while/<br>
+│ ├─ funcoes-anonimas/<br>
+│ ├─ funcoes-e-params/<br>
+│ ├─ n-valores/<br>
+│ └─ retorno-nomeado-e-multiplo/<br>
+└─ README.md
+
 <a name="section-changelog">
 
 ## Notas de versão
 
 </a>
+
+### v0.0.3-20250410
+
+- Explicação do uso do For, "While e Do-While"
+- Aula sobre Funções do `GoLang`
+
+### v0.0.2-20250407
+
+- Aula sobre as Estruturas de Controle do `GoLang`
 
 ### v0.0.2-20250407
 
