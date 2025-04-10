@@ -27,19 +27,6 @@
 
 ## Estruturação das Pastas
 
-aprendendo-golang/ <br>
-├─ **01-fundamentos/**<br>
-│ ├─ arrays-slices/<br>
-│ ├─ interfaces/<br>
-│ ├─ public-private/<br>
-│ ├─ structs/<br>
-│ └─ variables/<br>
-├─ **02-estruturas-de-controle/** <br>
-│ ├─ if-else/<br>
-│ ├─ if-init/<br>
-│ └─ switch/<br>
-└─ README.md
-
 aprendendo-golang/<br>
 ├─ **01-fundamentos/** <br>
 │ ├─ arrays-slices/<br>
